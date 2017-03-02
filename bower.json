@@ -1,0 +1,20 @@
+{
+  "name": "angular-1.5.5",
+  "version": "1.5.5",
+  "license": "MIT",
+  "main": "./angular.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {},
+  "homepage": "https://github.com/iq9891/angular-1.5.5",
+  "authors": [
+    "leerb <914726892@qq.com>"
+  ],
+  "description": ""
+}
